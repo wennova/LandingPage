@@ -1,0 +1,35 @@
+/***********TAG SELECTORS********** CLASS 39****/
+h1{
+  color: red;
+}
+
+img:hover{ /*class 39*/
+  background-color: gold;
+}
+/*
+img {
+  background-color: red;
+}
+*/
+
+/******CLASS SELECTOR&********* CLASS 39 ****/
+
+.bacon{
+  background-color: green;
+}
+
+.circular{
+  border-radius: 100%;
+}
+/******ID SELECTOR&********* CLASS 40 ****/
+
+#HEADING {
+  color: blue;
+}
+
+/*when to use heading an whehn to use ID?
+ID = Only one per page per title, can be be used for headings, footers, etc.
+CLASS: MULTIPELE
+THEY are more specific than the tags
+classes can be combined like the example "border circular"
+***/
